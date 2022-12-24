@@ -1,0 +1,37 @@
+
+      body{
+        background: rosybrown;
+      }
+
+      hr{
+
+        border-style: dotted none none;
+        height: 0px;
+        width: 100px;
+        border-color: grey;
+        border-width: 5px;
+
+      }
+
+      img{
+        height: 350px;
+        background-color: red;
+        width: 100%;
+        border-radius: 100%;
+      }
+
+      h1:hover {
+
+        color: #66bfbf;
+
+      /*
+      This is a comment
+
+      */
+
+      }
+
+      h3 {
+        color: #66bfbf;
+
+      }
